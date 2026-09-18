@@ -1,0 +1,10 @@
+pandas
+psycopg2-binary
+sqlalchemy
+python-dotenv
+pytest
+flake8
+databricks-sql-connector
+prefect
+flake8
+pytest
